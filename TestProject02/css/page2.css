@@ -1,0 +1,60 @@
+#leftside{
+    float:left;
+    margin:10% 0% 0% 20% ;
+}
+#rightside{
+    float:right;
+    margin:10% 18% 0% 0% ;
+}
+
+#main{
+    margin:10% 30% 30% 30% ;
+}
+
+.button1{
+    display:inline;
+}
+.buttonImg{
+    border-radius:30%;
+    
+}
+.card{
+    margin: 0px auto;
+    width:800px;
+}
+
+.CardStory
+{
+    width:400px;
+    font-size:20px;
+    color:gray;
+    font-style: italic; /* 中文字體? */
+    text-align: left;
+}
+.CardEffect
+{
+    font-size:20px;
+    color:white;
+    text-align: left;
+}
+.CardTag
+{
+   font-size:18px;
+   color:rgb(250,250,210);
+   text-align: left;
+   display:inline;
+}
+.CardContent
+{
+   font-size:18px;
+   color:white;
+   text-align: left;
+   display:inline;
+}
+h1{
+    color:white;
+}
+
+li{
+    color:rgb(250,250,210);
+}
